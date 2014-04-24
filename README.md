@@ -3,7 +3,7 @@ BarcodeScanner - PG edition
 
 ### PG Edition Changes
 
-The Phonegap version does not install without using Phonegap Build. The Wildabeast version appears abandoned. This version is an attempt to address the most critical issues with the plugin. Pull requests welcome. No breaking changes are planned. Code that works with the Phonegap of Wildabeast version should work with this version. 
+The Phonegap version does not install without using Phonegap Build. The Wildabeast version appears abandoned. This version is an attempt to address the most critical issues with the plugin so taht it can be used in a plain Cordova project. Pull requests welcome. No breaking changes are planned. Code that works with the Phonegap or Wildabeast version should work with this version. 
 
 ### Cross-platform BarcodeScanner for Cordova / PhoneGap.
 
